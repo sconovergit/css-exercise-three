@@ -29,6 +29,7 @@ nav {
 .location{
   border: 1px solid #999999;
   padding:20px;
+  background-color: #d3d3d3;
 }
 .location:hover{
   background-color: #999999;
